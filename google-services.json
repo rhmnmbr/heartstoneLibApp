@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "422302448870",
+    "firebase_url": "https://heartstonelib-e35fd.firebaseio.com",
+    "project_id": "heartstonelib-e35fd",
+    "storage_bucket": "heartstonelib-e35fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422302448870:android:4ca1ca3577a59064",
+        "android_client_info": {
+          "package_name": "com.aman.heartstonelib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422302448870-4989ipbb34adbnhe7b9ishur39ik2j0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7HdIc-HC9kp6cbFaVbHSk6mD0m2XS2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
